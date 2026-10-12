@@ -1,0 +1,8 @@
+{
+  "name": "Remix অভিনন্দন",
+  "description": "An extremely fast and lightweight single page congratulations app",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
